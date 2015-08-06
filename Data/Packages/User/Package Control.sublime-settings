@@ -1,0 +1,24 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Babel Snippets",
+		"BracketHighlighter",
+		"Emmet",
+		"Emmet Css Snippets",
+		"HTML-CSS-JS Prettify",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-contrib-eslint",
+		"Syntax Highlighting for Sass",
+		"Theme - Cobalt2",
+		"Theme - Flatland",
+		"Theme - Spacegray"
+	]
+}

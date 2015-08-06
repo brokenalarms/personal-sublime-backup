@@ -1,0 +1,1270 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3083,
+	"last_window_id": 8,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 623.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"func",
+						"funcLocation"
+					],
+					[
+						"example",
+						"exampleManager"
+					],
+					[
+						"exa",
+						"exampleManager"
+					],
+					[
+						"opti",
+						"optionStore"
+					],
+					[
+						"scri",
+						"scriptLoc"
+					],
+					[
+						"p",
+						"propTypes"
+					],
+					[
+						"show",
+						"showMenuOnClick"
+					],
+					[
+						"handle",
+						"handleNavClose"
+					],
+					[
+						"Cont",
+						"ControllerFactory"
+					],
+					[
+						"prop",
+						"prototype"
+					],
+					[
+						"define",
+						"defineProperty"
+					],
+					[
+						"pro",
+						"propName"
+					],
+					[
+						"left",
+						"leftNav"
+					],
+					[
+						"sho",
+						"showNavBar"
+					],
+					[
+						"d3",
+						"d3-test"
+					],
+					[
+						"bd",
+						"bd	border"
+					],
+					[
+						"inp",
+						"inputContent"
+					],
+					[
+						"co",
+						"component"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 365.0,
+				"last_filter": "insta",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"prefs",
+						"Preferences: SublimeLinter Settings – User"
+					],
+					[
+						"mark",
+						"SublimeLinter: Choose Mark Style"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"choes",
+						"SublimeLinter: Choose Lint Mode"
+					],
+					[
+						"linter settings",
+						"Preferences: SublimeLinter Settings – User"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 553.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/pitch/functional-visualiser/public/components/App.jsx",
+				"/C/Users/pitch/functional-visualiser/public/index.jsx",
+				"/C/Users/pitch/functional-visualiser/gulpfile.js",
+				"/C/Users/pitch/functional-visualiser/public/components/ActionPane/D3Root/D3Root.jsx",
+				"/C/Users/pitch/functional-visualiser/public/modules/astParser/astParser.js",
+				"/C/Users/pitch/functional-visualiser/public/components/ActionPane/ActionPane.jsx",
+				"/C/Users/pitch/functional-visualiser/public/modules/examples/examples.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/examples/exampleFiles/sum.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/examples/imperative.js",
+				"/C/Users/pitch/functional-visualiser/public/components/ActionPane/_ActionPane.scss",
+				"/C/Users/pitch/functional-visualiser/public/components/ActionPane/D3Root/_D3Root.scss",
+				"/C/Users/pitch/functional-visualiser/public/constants/constants.js",
+				"/C/Users/pitch/functional-visualiser/public/sass/main.scss",
+				"/C/Users/pitch/functional-visualiser/public/components/ActionPane/CodePane/CodePane.jsx",
+				"/C/Users/pitch/functional-visualiser/public/stores/optionStore.js",
+				"/C/Users/pitch/functional-visualiser/public/components/ActionPane/CodePane/_CodePane.scss",
+				"/C/Users/pitch/.ssh/id_rsa.pub",
+				"/C/Users/pitch/.ssh/id_rsa",
+				"/C/Users/pitch/functional-visualiser/public/components/Controller/LeftNav/LeftNav.jsx",
+				"/C/Users/pitch/functional-visualiser/public/index.html",
+				"/C/Users/pitch/functional-visualiser/package.json",
+				"/C/Users/pitch/functional-visualiser/public/modules/App.jsx",
+				"/C/Users/pitch/functional-visualiser/public/modules/components/ActionPane/ActionPane.jsx",
+				"/C/Users/pitch/functional-visualiser/public/modules/components/Controller/LeftNav/LeftNav.jsx",
+				"/C/Users/pitch/functional-visualiser/public/modules/components/ActionPane/CodePane/CodePane.jsx",
+				"/C/Users/pitch/functional-visualiser/public/modules/components/factories/ComponentFactory.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/components/Controller/Controller.jsx",
+				"/C/Users/pitch/functional-visualiser/public/modules/components/factories/ComponentFactory.jsx",
+				"/C/Users/pitch/functional-visualiser/public/modules/layout/Controller/LeftNav/LeftNav.jsx",
+				"/C/Users/pitch/functional-visualiser/public/modules/layout/ActionPane/D3Root/D3Root.jsx",
+				"/C/Users/pitch/functional-visualiser/public/modules/layout/Controller/Controller.jsx",
+				"/C/Users/pitch/functional-visualiser/public/modules/app.jsx",
+				"/C/Users/pitch/OneDrive/Programs/SublimeText3/Data/Packages/User/SublimeLinter.sublime-settings",
+				"/C/Users/pitch/functional-visualiser/.eslintrc",
+				"/C/Users/pitch/OneDrive/Programs/SublimeText3/Data/Packages/HTML-CSS-JS Prettify/scripts/node_modules/js-beautify/js/lib/beautify.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/layout/LeftNav/LeftNav.jsx",
+				"/C/Users/pitch/OneDrive/Programs/SublimeText3/Data/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/C/Users/pitch/functional-visualiser/.gitignore",
+				"/C/Users/pitch/functional-visualiser/app.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/layout/D3Root/D3Root.jsx",
+				"/C/Users/pitch/functional-visualiser/public/build/app.js",
+				"/C/Users/pitch/functional-visualiser/public/build/vendor.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/vendorDeps.js",
+				"/C/Users/pitch/functional-visualiser/.eslintignore",
+				"/C/Users/pitch/OneDrive/Programs/SublimeText3/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/C/Users/pitch/functional-visualiser/public/modules/layout/D3Root/_components.scss",
+				"/C/Users/pitch/functional-visualiser/public/modules/layout/D3Root/functionBlock/_functionBlock.scss",
+				"/C/Users/pitch/functional-visualiser/public/modules/layout/d3Root/_components.scss",
+				"/C/Users/pitch/functional-visualiser/public/build/main.css",
+				"/C/Users/pitch/functional-visualiser/public/modules/layout/CodePane/CodePane.jsx",
+				"/C/Users/pitch/OneDrive/Programs/SublimeText3/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Users/pitch/functional-visualiser/public/modules/layout/MaterialUiContainer.jsx",
+				"/C/Users/pitch/OneDrive/Programs/SublimeText3/Data/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/pitch/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 46.0
+			},
+			"find_in_files":
+			{
+				"height": 120.0,
+				"where_history":
+				[
+					"C:\\Users\\pitch\\functional-visualiser",
+					"C:\\Users\\pitch\\functional-visualiser\\public\\modules"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"acorn",
+					"dg",
+					"var",
+					"',\n",
+					"index",
+					"components",
+					"modules",
+					"index",
+					"sourceroot",
+					"app",
+					"app.js",
+					"        <",
+					"instance",
+					"handleMenuClick",
+					"show",
+					"beautify",
+					"navigator",
+					"function",
+					"strict",
+					"js",
+					"react",
+					"vendor",
+					"react",
+					"left nav",
+					"react",
+					"<script type=\"application/javascript\" src=\"build/app.js\"></script>\n",
+					"mixspecintocomponent",
+					"spec",
+					"reactclass",
+					"createClass =",
+					"react.create",
+					"createclass",
+					"_createClass",
+					"leftnav"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"let",
+					"d3root"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 43.0
+			},
+			"input":
+			{
+				"height": 41.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 83.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"app.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 322.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1113.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"forec",
+						"forceLayout"
+					],
+					[
+						"client",
+						"clientWidth"
+					],
+					[
+						"start",
+						"startForceLayout"
+					],
+					[
+						"select",
+						"selectAll"
+					],
+					[
+						"force",
+						"forceLayout"
+					],
+					[
+						"pro",
+						"props	React: this.props"
+					],
+					[
+						"par",
+						"parseAst"
+					],
+					[
+						"anal",
+						"analyzeScope"
+					],
+					[
+						"Pro",
+						"propTypes"
+					],
+					[
+						"ex",
+						"exampleKey"
+					],
+					[
+						"sele",
+						"selectedExample"
+					],
+					[
+						"get",
+						"getOptions"
+					],
+					[
+						"func",
+						"funcLocation"
+					],
+					[
+						"example",
+						"exampleManager"
+					],
+					[
+						"exa",
+						"exampleManager"
+					],
+					[
+						"opti",
+						"optionStore"
+					],
+					[
+						"scri",
+						"scriptLoc"
+					],
+					[
+						"p",
+						"propTypes"
+					],
+					[
+						"show",
+						"showMenuOnClick"
+					],
+					[
+						"handle",
+						"handleNavClose"
+					],
+					[
+						"Cont",
+						"ControllerFactory"
+					],
+					[
+						"prop",
+						"prototype"
+					],
+					[
+						"define",
+						"defineProperty"
+					],
+					[
+						"left",
+						"leftNav"
+					],
+					[
+						"sho",
+						"showNavBar"
+					],
+					[
+						"d3",
+						"d3-test"
+					],
+					[
+						"bd",
+						"bd	border"
+					],
+					[
+						"inp",
+						"inputContent"
+					],
+					[
+						"co",
+						"component"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "public/components/Controller/ActionPane/VisPane/VisPane.jsx",
+					"settings":
+					{
+						"buffer_size": 2569,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "public/modules/examples/exampleFiles/sum.js",
+					"settings":
+					{
+						"buffer_size": 544,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "public/components/Controller/ActionPane/ActionPane.jsx",
+					"settings":
+					{
+						"buffer_size": 955,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "public/components/Controller/ActionPane/VisPane/_VisPane.scss",
+					"settings":
+					{
+						"buffer_size": 467,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "public/components/Controller/ActionPane/VisPane/d3Helpers.js",
+					"settings":
+					{
+						"buffer_size": 35,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "public/components/Controller/Controller.jsx",
+					"settings":
+					{
+						"buffer_size": 1719,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "public/modules/astParser/astParser.js",
+					"settings":
+					{
+						"buffer_size": 488,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 365.0,
+				"last_filter": "insta",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"prefs",
+						"Preferences: SublimeLinter Settings – User"
+					],
+					[
+						"mark",
+						"SublimeLinter: Choose Mark Style"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"choes",
+						"SublimeLinter: Choose Lint Mode"
+					],
+					[
+						"linter settings",
+						"Preferences: SublimeLinter Settings – User"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 553.0
+			},
+			"console":
+			{
+				"height": 165.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Users/pitch/functional-visualiser",
+				"/C/Users/pitch/functional-visualiser/bin",
+				"/C/Users/pitch/functional-visualiser/docs",
+				"/C/Users/pitch/functional-visualiser/modules",
+				"/C/Users/pitch/functional-visualiser/node_modules/react",
+				"/C/Users/pitch/functional-visualiser/public",
+				"/C/Users/pitch/functional-visualiser/public/components",
+				"/C/Users/pitch/functional-visualiser/public/components/Controller",
+				"/C/Users/pitch/functional-visualiser/public/components/Controller/ActionPane",
+				"/C/Users/pitch/functional-visualiser/public/components/Controller/NavBar",
+				"/C/Users/pitch/functional-visualiser/public/modules",
+				"/C/Users/pitch/functional-visualiser/public/modules/astParser",
+				"/C/Users/pitch/functional-visualiser/public/modules/examples",
+				"/C/Users/pitch/functional-visualiser/public/modules/examples/exampleFiles",
+				"/C/Users/pitch/functional-visualiser/public/modules/stores",
+				"/C/Users/pitch/functional-visualiser/public/sass"
+			],
+			"file_history":
+			[
+				"/C/Users/pitch/OneDrive/Programs/SublimeText3/Data/Packages/User/bh_core.sublime-settings",
+				"/C/Users/pitch/functional-visualiser/public/sass/main.scss",
+				"/C/Users/pitch/functional-visualiser/public/index.html",
+				"/C/Users/pitch/functional-visualiser/gulpfile.js",
+				"/C/Users/pitch/functional-visualiser/routes/index.js",
+				"/C/Users/pitch/functional-visualiser/public/components/Controller/NavBar/NavBar.jsx",
+				"/C/Users/pitch/functional-visualiser/app.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/stores/optionStore.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/astParser/astParser_shift.js",
+				"/C/Users/pitch/functional-visualiser/public/components/Controller/ActionPane/_ActionPane.scss",
+				"/C/Users/pitch/functional-visualiser/bin/www.js",
+				"/C/Users/pitch/functional-visualiser/public/index.jsx",
+				"/C/Users/pitch/functional-visualiser/public/build/index.js",
+				"/C/Users/pitch/functional-visualiser/public/build/vendor.js",
+				"/C/Users/pitch/functional-visualiser/node_modules/shift-parser/dist/index.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/examples/examples.js",
+				"/C/Users/pitch/functional-visualiser/public/components/App.jsx",
+				"/C/Users/pitch/functional-visualiser/package.json",
+				"/C/Users/pitch/functional-visualiser/public/components/Controller/Controller.jsx",
+				"/C/Users/pitch/functional-visualiser/public/modules/astParser/astParser.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/examples/exampleFiles/sum.js",
+				"/C/Users/pitch/functional-visualiser/public/components/ActionPane/D3Root/D3Root.jsx",
+				"/C/Users/pitch/functional-visualiser/public/components/ActionPane/ActionPane.jsx",
+				"/C/Users/pitch/functional-visualiser/public/modules/examples/imperative.js",
+				"/C/Users/pitch/functional-visualiser/public/components/ActionPane/_ActionPane.scss",
+				"/C/Users/pitch/functional-visualiser/public/components/ActionPane/D3Root/_D3Root.scss",
+				"/C/Users/pitch/functional-visualiser/public/constants/constants.js",
+				"/C/Users/pitch/functional-visualiser/public/components/ActionPane/CodePane/CodePane.jsx",
+				"/C/Users/pitch/functional-visualiser/public/stores/optionStore.js",
+				"/C/Users/pitch/functional-visualiser/public/components/ActionPane/CodePane/_CodePane.scss",
+				"/C/Users/pitch/.ssh/id_rsa.pub",
+				"/C/Users/pitch/.ssh/id_rsa",
+				"/C/Users/pitch/functional-visualiser/public/components/Controller/LeftNav/LeftNav.jsx",
+				"/C/Users/pitch/functional-visualiser/public/modules/App.jsx",
+				"/C/Users/pitch/functional-visualiser/public/modules/components/ActionPane/ActionPane.jsx",
+				"/C/Users/pitch/functional-visualiser/public/modules/components/Controller/LeftNav/LeftNav.jsx",
+				"/C/Users/pitch/functional-visualiser/public/modules/components/ActionPane/CodePane/CodePane.jsx",
+				"/C/Users/pitch/functional-visualiser/public/modules/components/factories/ComponentFactory.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/components/Controller/Controller.jsx",
+				"/C/Users/pitch/functional-visualiser/public/modules/components/factories/ComponentFactory.jsx",
+				"/C/Users/pitch/functional-visualiser/public/modules/layout/Controller/LeftNav/LeftNav.jsx",
+				"/C/Users/pitch/functional-visualiser/public/modules/layout/ActionPane/D3Root/D3Root.jsx",
+				"/C/Users/pitch/functional-visualiser/public/modules/layout/Controller/Controller.jsx",
+				"/C/Users/pitch/functional-visualiser/public/modules/app.jsx",
+				"/C/Users/pitch/OneDrive/Programs/SublimeText3/Data/Packages/User/SublimeLinter.sublime-settings",
+				"/C/Users/pitch/functional-visualiser/.eslintrc",
+				"/C/Users/pitch/OneDrive/Programs/SublimeText3/Data/Packages/HTML-CSS-JS Prettify/scripts/node_modules/js-beautify/js/lib/beautify.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/layout/LeftNav/LeftNav.jsx",
+				"/C/Users/pitch/OneDrive/Programs/SublimeText3/Data/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/C/Users/pitch/functional-visualiser/.gitignore",
+				"/C/Users/pitch/functional-visualiser/public/modules/layout/D3Root/D3Root.jsx",
+				"/C/Users/pitch/functional-visualiser/public/build/app.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/vendorDeps.js",
+				"/C/Users/pitch/functional-visualiser/.eslintignore",
+				"/C/Users/pitch/OneDrive/Programs/SublimeText3/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/C/Users/pitch/functional-visualiser/public/modules/layout/D3Root/_components.scss",
+				"/C/Users/pitch/functional-visualiser/public/modules/layout/D3Root/functionBlock/_functionBlock.scss",
+				"/C/Users/pitch/functional-visualiser/public/modules/layout/d3Root/_components.scss",
+				"/C/Users/pitch/functional-visualiser/public/build/main.css",
+				"/C/Users/pitch/functional-visualiser/public/modules/layout/CodePane/CodePane.jsx",
+				"/C/Users/pitch/OneDrive/Programs/SublimeText3/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Users/pitch/functional-visualiser/public/modules/layout/MaterialUiContainer.jsx",
+				"/C/Users/pitch/OneDrive/Programs/SublimeText3/Data/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/pitch/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 46.0
+			},
+			"find_in_files":
+			{
+				"height": 120.0,
+				"where_history":
+				[
+					"C:\\Users\\pitch\\functional-visualiser",
+					"C:\\Users\\pitch\\functional-visualiser\\node_modules\\shift-scope",
+					"C:\\Users\\pitch\\functional-visualiser",
+					"C:\\Users\\pitch\\functional-visualiser\\public\\modules"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"dimensions",
+					"element",
+					"should",
+					"test",
+					"dimensions",
+					"import express",
+					"import",
+					"shift-scope",
+					"analyzeScope",
+					"export",
+					"instance",
+					"onFunctionLocationChanged",
+					"acorn",
+					"dg",
+					"var",
+					"',\n",
+					"index",
+					"components",
+					"modules",
+					"index",
+					"sourceroot",
+					"app",
+					"app.js",
+					"        <",
+					"instance",
+					"handleMenuClick",
+					"show",
+					"beautify",
+					"navigator",
+					"function",
+					"strict",
+					"js",
+					"react",
+					"vendor",
+					"react",
+					"left nav",
+					"react",
+					"<script type=\"application/javascript\" src=\"build/app.js\"></script>\n",
+					"mixspecintocomponent",
+					"spec",
+					"reactclass",
+					"createClass =",
+					"react.create",
+					"createclass",
+					"_createClass",
+					"leftnav"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"let",
+					"d3root"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "public/components/Controller/ActionPane/VisPane/VisPane.jsx",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2569,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										922,
+										922
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 600.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "public/modules/examples/exampleFiles/sum.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 544,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										280,
+										280
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "public/components/Controller/ActionPane/ActionPane.jsx",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 955,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										507,
+										507
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "public/components/Controller/ActionPane/VisPane/_VisPane.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 467,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										467,
+										467
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "public/components/Controller/ActionPane/VisPane/d3Helpers.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 35,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										30,
+										30
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"open_with_edit": true,
+									"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "public/components/Controller/Controller.jsx",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1719,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1635,
+										1635
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 420.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 6,
+							"file": "public/modules/astParser/astParser.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 488,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										172,
+										172
+									]
+								],
+								"settings":
+								{
+									"open_with_edit": true,
+									"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 43.0
+			},
+			"input":
+			{
+				"height": 41.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.91610738255,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,1,-32000,-32000,-1,-1,924,201,229,1332",
+			"project": "functional-visualiser.sublime-project",
+			"replace":
+			{
+				"height": 83.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"app.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 63.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 5,
+			"workspace_name": "/C/Users/pitch/functional-visualiser/functional-visualiser.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/C/Users/pitch/functional-visualiser/functional-visualiser.sublime-workspace"
+		]
+	}
+}
