@@ -1,13 +1,14 @@
 {
 	"folder_history":
 	[
+		"/C/Users/pitch/functional-visualiser/public/modules/vendor/react-ace"
 	],
 	"last_version": 3083,
-	"last_window_id": 8,
+	"last_window_id": 13,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 623.0,
+		"new_window_height": 739.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -15,12 +16,452 @@
 				"selected_items":
 				[
 					[
+						"funct",
+						"functionCalled"
+					],
+					[
+						"function",
+						"functionNodes"
+					],
+					[
 						"func",
-						"funcLocation"
+						"functionNodes"
+					],
+					[
+						"current",
+						"currentNode"
+					],
+					[
+						"functio",
+						"functionNode"
+					],
+					[
+						"functi",
+						"function"
+					],
+					[
+						"add",
+						"addUserInfo"
+					],
+					[
+						"var",
+						"variables"
+					],
+					[
+						"dec",
+						"decTracker"
+					],
+					[
+						"ty",
+						"typeIsIdentifier"
+					],
+					[
+						"addFunct",
+						"addFunctionCallRef"
+					],
+					[
+						"stat",
+						"staticNodeList"
+					],
+					[
+						"de",
+						"DeclarationTracker"
+					],
+					[
+						"Variabl",
+						"VariableDeclaration"
+					],
+					[
+						"creat",
+						"createFunctionNodes"
+					],
+					[
+						"call",
+						"callbackResult"
+					],
+					[
+						"fu",
+						"function"
+					],
+					[
+						"cons",
+						"continueSteps"
+					],
+					[
+						"outsid",
+						"outsideNested2"
+					],
+					[
+						"step",
+						"stepOrder"
+					],
+					[
+						"cr",
+						"createFunctionNodes"
+					],
+					[
+						"par",
+						"parseString"
+					],
+					[
+						"option",
+						"optionStore"
+					],
+					[
+						"hand",
+						"handleClose"
+					],
+					[
+						"on",
+						"onNavClose"
+					],
+					[
+						"show",
+						"showNavBar"
+					],
+					[
+						"Ma",
+						"MarkdownModal"
+					],
+					[
+						"defu",
+						"defaultState"
+					],
+					[
+						"b",
+						"builtinObjs"
+					],
+					[
+						"get",
+						"getOwnPropertyNames"
+					],
+					[
+						"bult",
+						"builtinObjsNoProto"
+					],
+					[
+						"solaz",
+						"solarized_dark"
+					],
+					[
+						"built",
+						"builtIns"
+					],
+					[
+						"bui",
+						"builtInObjs"
+					],
+					[
+						"bu",
+						"builtInObj"
+					],
+					[
+						"calle",
+						"calleeName"
+					],
+					[
+						"d3N",
+						"d3Nodes"
+					],
+					[
+						"buil",
+						"builtins"
+					],
+					[
+						"isC",
+						"isCalleeBuiltin"
+					],
+					[
+						"calee",
+						"calleeName"
+					],
+					[
+						"cal",
+						"calleeName"
+					],
+					[
+						"text",
+						"textObj"
+					],
+					[
+						"m",
+						"midY"
+					],
+					[
+						"mi",
+						"midX"
+					],
+					[
+						"charg",
+						"chargeDistance"
+					],
+					[
+						"for",
+						"forceLayout"
+					],
+					[
+						"se",
+						"selectedMarkdown"
+					],
+					[
+						"gl",
+						"globalScopeNode"
+					],
+					[
+						"glo",
+						"globalScopeNode"
+					],
+					[
+						"tra",
+						"transformNode"
+					],
+					[
+						"dra",
+						"drawFunctionLink"
+					],
+					[
+						"global",
+						"globalScope"
+					],
+					[
+						"go",
+						"globalScope"
+					],
+					[
+						"link",
+						"linkDistance"
+					],
+					[
+						"ma",
+						"maxAllowedY"
+					],
+					[
+						"max",
+						"maxAllowedX"
+					],
+					[
+						"y",
+						"yBuffer"
+					],
+					[
+						"x",
+						"xBuffer"
+					],
+					[
+						"left",
+						"leftBuffer"
+					],
+					[
+						"links",
+						"linksObj"
+					],
+					[
+						"foc",
+						"forceLayout"
+					],
+					[
+						"d3",
+						"d3CallLinks"
+					],
+					[
+						"Function",
+						"FunctionDeclaration"
+					],
+					[
+						"variable",
+						"variablesTracker"
+					],
+					[
+						"variabl",
+						"variablesTracker"
+					],
+					[
+						"functions",
+						"functionsCalled"
+					],
+					[
+						"node",
+						"nodeForFunction"
+					],
+					[
+						"te",
+						"textBlock"
+					],
+					[
+						"params",
+						"paramsText"
+					],
+					[
+						"param",
+						"paramsText"
+					],
+					[
+						"dis",
+						"displayParams"
+					],
+					[
+						"variables",
+						"variablesDeclared"
+					],
+					[
+						"varia",
+						"variablesDeclared"
+					],
+					[
+						"new",
+						"newText"
+					],
+					[
+						"graph",
+						"graphType"
+					],
+					[
+						"para",
+						"paramNames"
+					],
+					[
+						"assignment",
+						"AssignmentExpression"
+					],
+					[
+						"assign",
+						"AssignmentExpression"
+					],
+					[
+						"initi",
+						"initialOffsets"
+					],
+					[
+						"pro",
+						"propertyChain"
+					],
+					[
+						"set",
+						"setOptions"
+					],
+					[
+						"i",
+						"import"
+					],
+					[
+						"select",
+						"selectedMarkdown"
+					],
+					[
+						"sel",
+						"selectedMarkdown"
+					],
+					[
+						"Var",
+						"VariableDeclaration"
+					],
+					[
+						"callee",
+						"calleeName"
+					],
+					[
+						"mem",
+						"memberType"
+					],
+					[
+						"variablesDecla",
+						"variablesDeclaredKeyMapChain"
+					],
+					[
+						"code",
+						"codeMirrorOptions"
+					],
+					[
+						"scop",
+						"scopeChainForFunction"
+					],
+					[
+						"va",
+						"variableName"
+					],
+					[
+						"object",
+						"objectWhereVariableDeclared"
+					],
+					[
+						"varibl",
+						"variableName"
+					],
+					[
+						"sc",
+						"scopeChainForVariableMutated"
+					],
+					[
+						"varable",
+						"variablesDeclared"
+					],
+					[
+						"scope",
+						"scopeChain"
+					],
+					[
+						"Functio",
+						"FunctionDeclaration"
+					],
+					[
+						"curr",
+						"currentD3Node"
+					],
+					[
+						"Varia",
+						"VariableDeclarator"
+					],
+					[
+						"create",
+						"createsNewFunctionScope"
 					],
 					[
 						"example",
-						"exampleManager"
+						"exampleLink"
+					],
+					[
+						"pars",
+						"parseAst"
+					],
+					[
+						"P",
+						"PropTypes"
+					],
+					[
+						"defaul",
+						"defaultProps"
+					],
+					[
+						"forec",
+						"forceLayout"
+					],
+					[
+						"client",
+						"clientWidth"
+					],
+					[
+						"start",
+						"startForceLayout"
+					],
+					[
+						"force",
+						"forceLayout"
+					],
+					[
+						"anal",
+						"analyzeScope"
+					],
+					[
+						"Pro",
+						"propTypes"
+					],
+					[
+						"ex",
+						"exampleKey"
+					],
+					[
+						"sele",
+						"selectedExample"
 					],
 					[
 						"exa",
@@ -39,10 +480,6 @@
 						"propTypes"
 					],
 					[
-						"show",
-						"showMenuOnClick"
-					],
-					[
 						"handle",
 						"handleNavClose"
 					],
@@ -59,20 +496,8 @@
 						"defineProperty"
 					],
 					[
-						"pro",
-						"propName"
-					],
-					[
-						"left",
-						"leftNav"
-					],
-					[
 						"sho",
 						"showNavBar"
-					],
-					[
-						"d3",
-						"d3-test"
 					],
 					[
 						"bd",
@@ -94,10 +519,18 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 365.0,
-				"last_filter": "insta",
+				"height": 469.0,
+				"last_filter": "prett",
 				"selected_items":
 				[
+					[
+						"prett",
+						"HTMLPrettify: Set Prettify Preferences"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
 					[
 						"insta",
 						"Package Control: Install Package"
@@ -123,10 +556,6 @@
 						"Preferences: SublimeLinter Settings – User"
 					],
 					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
 						"inst",
 						"Package Control: Install Package"
 					],
@@ -139,11 +568,11 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 553.0
+				"width": 619.0
 			},
 			"console":
 			{
-				"height": 0.0,
+				"height": 165.0,
 				"history":
 				[
 				]
@@ -159,27 +588,83 @@
 			},
 			"file_history":
 			[
-				"/C/Users/pitch/functional-visualiser/public/components/App.jsx",
-				"/C/Users/pitch/functional-visualiser/public/index.jsx",
-				"/C/Users/pitch/functional-visualiser/gulpfile.js",
-				"/C/Users/pitch/functional-visualiser/public/components/ActionPane/D3Root/D3Root.jsx",
-				"/C/Users/pitch/functional-visualiser/public/modules/astParser/astParser.js",
-				"/C/Users/pitch/functional-visualiser/public/components/ActionPane/ActionPane.jsx",
-				"/C/Users/pitch/functional-visualiser/public/modules/examples/examples.js",
+				"/C/Users/pitch/functional-visualiser/.eslintrc",
+				"/C/Users/pitch/functional-visualiser/public/reactComponents/BaseLayout/ActionPane/ActionPane.jsx",
+				"/C/Users/pitch/functional-visualiser/public/modules/astParser/astParser2.js",
+				"/C/Users/pitch/functional-visualiser/public/reactComponents/BaseLayout/MarkdownModal/MarkdownModal.jsx",
 				"/C/Users/pitch/functional-visualiser/public/modules/examples/exampleFiles/sum.js",
+				"/C/Users/pitch/functional-visualiser/public/reactComponents/BaseLayout/NavBar/NavBar.jsx",
+				"/C/Users/pitch/functional-visualiser/public/reactComponents/BaseLayout/BaseLayout.jsx",
+				"/C/Users/pitch/functional-visualiser/public/modules/stores/optionStore.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/examples/exampleFiles/escopeDemo.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/examples/examples.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/d3Visualiser/d3Visualiser.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/astParser/astParser.js",
+				"/C/Users/pitch/functional-visualiser/public/reactComponents/Controller/BaseLayout.jsx",
+				"/C/Users/pitch/functional-visualiser/public/reactComponents/App.jsx",
+				"/C/Users/pitch/functional-visualiser/public/reactComponents/Controller/ActionPane/CodePane/CodePane.jsx",
+				"/C/Users/pitch/functional-visualiser/public/reactComponents/Controller/ActionPane/VisPane/_VisPane.scss",
+				"/C/Users/pitch/functional-visualiser/public/reactComponents/Controller/ActionPane/CodePane/_CodePane.scss",
+				"/C/Users/pitch/functional-visualiser/public/reactComponents/Controller/NavBar/NavBar.jsx",
+				"/C/Users/pitch/functional-visualiser/public/modules/stores/updateStore.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/examples/exampleFiles/smashingMagazine.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/vendor/react-ace/index.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/vendor/react-ace/src/ace.jsx",
+				"/C/Users/pitch/functional-visualiser/gulpfile.js",
+				"/C/Users/pitch/functional-visualiser/node_modules/react-ace/src/ace.jsx",
+				"/C/Users/pitch/functional-visualiser/package.json",
+				"/C/Users/pitch/functional-visualiser/public/sass/main.scss",
+				"/C/Users/pitch/functional-visualiser/public/reactComponents/Controller/ActionPane/ActionPane.jsx",
+				"/C/Users/pitch/functional-visualiser/public/build/index.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/astParser/astParserDoc.js",
+				"/C/Users/pitch/functional-visualiser/public/reactComponents/Controller/Controller.jsx",
+				"/C/Users/pitch/functional-visualiser/public/reactComponents/Controller/MarkdownModal/MarkdownModal.jsx",
+				"/C/Users/pitch/functional-visualiser/public/docs/earlyDeliverable.js",
+				"/C/Users/pitch/functional-visualiser/public/docs/Early deliverable.js",
+				"/C/Users/pitch/functional-visualiser/public/reactComponents/Controller/ActionPane/VisPane/VisPane.jsx",
+				"/C/Users/pitch/functional-visualiser/public/reactComponents/Controller/ActionPane/_ActionPane.scss",
+				"/C/Users/pitch/functional-visualiser/node_modules/codemirror/lib/codemirror.js",
+				"/C/Users/pitch/functional-visualiser/docs/Early deliverable.md",
+				"/C/Users/pitch/functional-visualiser/public/reactComponents/factories/ComponentFactory.js",
+				"/C/SublimeText3/Data/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/C/Users/pitch/functional-visualiser/public/index.html",
+				"/C/Users/pitch/functional-visualiser/public/sass/solarized.css",
+				"/C/Users/pitch/functional-visualiser/public/components/Controller/ActionPane/VisPane/d3Helper.js",
+				"/C/Users/pitch/functional-visualiser/public/components/Controller/ActionPane/VisPane/_VisPane.scss",
+				"/C/Users/pitch/functional-visualiser/public/components/Controller/ActionPane/VisPane/VisPane.jsx",
+				"/C/Users/pitch/functional-visualiser/public/components/Controller/ActionPane/ActionPane.jsx",
+				"/C/Users/pitch/functional-visualiser/public/build/index.js.map",
+				"/C/Users/pitch/functional-visualiser/public/index.jsx",
+				"/C/Users/pitch/functional-visualiser/public/components/Controller/NavBar/NavBar.jsx",
+				"/C/Users/pitch/functional-visualiser/public/components/Controller/Controller.jsx",
+				"/C/SublimeText3/Data/Packages/User/WordCount.sublime-settings",
+				"/C/SublimeText3/Data/Packages/WordCount/WordCount.sublime-settings",
+				"/C/Users/pitch/functional-visualiser/public/modules/vendor/cola.js",
+				"/C/Users/pitch/functional-visualiser/node_modules/webcola/index.js",
+				"/C/Users/pitch/functional-visualiser/node_modules/webcola/README.md",
+				"/C/Users/pitch/functional-visualiser/node_modules/webcola/WebCola/cola.js",
+				"/C/Users/pitch/functional-visualiser/public/components/Controller/ActionPane/VisPane/d3Helpers.js",
+				"/C/Users/pitch/OneDrive/Programs/SublimeText3/Data/Packages/User/bh_core.sublime-settings",
+				"/C/Users/pitch/functional-visualiser/routes/index.js",
+				"/C/Users/pitch/functional-visualiser/app.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/astParser/astParser_shift.js",
+				"/C/Users/pitch/functional-visualiser/public/components/Controller/ActionPane/_ActionPane.scss",
+				"/C/Users/pitch/functional-visualiser/bin/www.js",
+				"/C/Users/pitch/functional-visualiser/public/build/vendor.js",
+				"/C/Users/pitch/functional-visualiser/node_modules/shift-parser/dist/index.js",
+				"/C/Users/pitch/functional-visualiser/public/components/App.jsx",
+				"/C/Users/pitch/functional-visualiser/public/components/ActionPane/D3Root/D3Root.jsx",
+				"/C/Users/pitch/functional-visualiser/public/components/ActionPane/ActionPane.jsx",
 				"/C/Users/pitch/functional-visualiser/public/modules/examples/imperative.js",
 				"/C/Users/pitch/functional-visualiser/public/components/ActionPane/_ActionPane.scss",
 				"/C/Users/pitch/functional-visualiser/public/components/ActionPane/D3Root/_D3Root.scss",
 				"/C/Users/pitch/functional-visualiser/public/constants/constants.js",
-				"/C/Users/pitch/functional-visualiser/public/sass/main.scss",
 				"/C/Users/pitch/functional-visualiser/public/components/ActionPane/CodePane/CodePane.jsx",
 				"/C/Users/pitch/functional-visualiser/public/stores/optionStore.js",
 				"/C/Users/pitch/functional-visualiser/public/components/ActionPane/CodePane/_CodePane.scss",
 				"/C/Users/pitch/.ssh/id_rsa.pub",
 				"/C/Users/pitch/.ssh/id_rsa",
 				"/C/Users/pitch/functional-visualiser/public/components/Controller/LeftNav/LeftNav.jsx",
-				"/C/Users/pitch/functional-visualiser/public/index.html",
-				"/C/Users/pitch/functional-visualiser/package.json",
 				"/C/Users/pitch/functional-visualiser/public/modules/App.jsx",
 				"/C/Users/pitch/functional-visualiser/public/modules/components/ActionPane/ActionPane.jsx",
 				"/C/Users/pitch/functional-visualiser/public/modules/components/Controller/LeftNav/LeftNav.jsx",
@@ -192,15 +677,12 @@
 				"/C/Users/pitch/functional-visualiser/public/modules/layout/Controller/Controller.jsx",
 				"/C/Users/pitch/functional-visualiser/public/modules/app.jsx",
 				"/C/Users/pitch/OneDrive/Programs/SublimeText3/Data/Packages/User/SublimeLinter.sublime-settings",
-				"/C/Users/pitch/functional-visualiser/.eslintrc",
 				"/C/Users/pitch/OneDrive/Programs/SublimeText3/Data/Packages/HTML-CSS-JS Prettify/scripts/node_modules/js-beautify/js/lib/beautify.js",
 				"/C/Users/pitch/functional-visualiser/public/modules/layout/LeftNav/LeftNav.jsx",
 				"/C/Users/pitch/OneDrive/Programs/SublimeText3/Data/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
 				"/C/Users/pitch/functional-visualiser/.gitignore",
-				"/C/Users/pitch/functional-visualiser/app.js",
 				"/C/Users/pitch/functional-visualiser/public/modules/layout/D3Root/D3Root.jsx",
 				"/C/Users/pitch/functional-visualiser/public/build/app.js",
-				"/C/Users/pitch/functional-visualiser/public/build/vendor.js",
 				"/C/Users/pitch/functional-visualiser/public/modules/vendorDeps.js",
 				"/C/Users/pitch/functional-visualiser/.eslintignore",
 				"/C/Users/pitch/OneDrive/Programs/SublimeText3/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
@@ -223,49 +705,162 @@
 				"height": 120.0,
 				"where_history":
 				[
+					"C:\\Users\\pitch\\functional-visualiser\\public\\reactComponents",
+					"C:\\Users\\pitch\\functional-visualiser\\public\\modules",
+					"C:\\Users\\pitch\\functional-visualiser",
+					"C:\\Users\\pitch\\functional-visualiser\\public\\modules",
+					"C:\\Users\\pitch\\functional-visualiser\\public",
+					"C:\\Users\\pitch\\functional-visualiser\\public\\modules",
+					"C:\\Users\\pitch\\functional-visualiser\\public\\reactComponents",
+					"C:\\Users\\pitch\\functional-visualiser\\public\\modules",
+					"C:\\Users\\pitch\\functional-visualiser\\public",
+					"C:\\Users\\pitch\\functional-visualiser\\public\\reactComponents",
+					"C:\\Users\\pitch\\functional-visualiser\\public",
+					"C:\\Users\\pitch\\functional-visualiser\\public\\modules",
+					"C:\\Users\\pitch\\functional-visualiser\\public\\components",
+					"C:\\Users\\pitch\\functional-visualiser\\public\\modules",
+					"C:\\Users\\pitch\\functional-visualiser\\public\\components",
+					"C:\\Users\\pitch\\functional-visualiser\\public",
+					"C:\\Users\\pitch\\functional-visualiser\\node_modules\\webcola\\WebCola",
+					"C:\\Users\\pitch\\functional-visualiser",
+					"C:\\Users\\pitch\\functional-visualiser\\node_modules\\shift-scope",
 					"C:\\Users\\pitch\\functional-visualiser",
 					"C:\\Users\\pitch\\functional-visualiser\\public\\modules"
 				]
 			},
 			"find_state":
 			{
-				"case_sensitive": true,
+				"case_sensitive": false,
 				"find_history":
 				[
-					"acorn",
-					"dg",
-					"var",
-					"',\n",
-					"index",
-					"components",
-					"modules",
-					"index",
-					"sourceroot",
-					"app",
-					"app.js",
-					"        <",
-					"instance",
-					"handleMenuClick",
-					"show",
-					"beautify",
-					"navigator",
+					"callexpress",
+					"addUserInfo",
+					"functionNode",
+					"addVariableInfo",
+					"currentNode",
+					"addFunctionCallRef",
+					"tracker.set",
+					"node",
+					"typeIsIdentifier",
+					"checkTypeIsIdentifier",
+					"declarations",
+					"variablesDeclared",
+					"estraverse",
+					"VariablesTracker",
+					"varTracker",
+					"stepThroughNodes",
+					"step",
+					"executeSteps",
+					" {",
+					"toString",
+					"type",
+					"codeExample",
+					"type",
+					"exampleCode",
+					"examples",
+					"selectedExample",
+					"state",
+					"code",
+					"LeftNavBar",
+					"showNavBar",
+					"isNavBarShowing",
+					"showNavBar",
+					"shouldShow",
+					"dismiss",
+					"onoption",
+					"clicked",
+					"type",
+					"this.state",
+					"Controller",
+					"markdown",
+					"Controller",
+					"optionStore",
+					"console",
+					"builtInObjNoProto",
+					"builtinObjsNoProto",
+					"ace/theme",
+					"ace/range",
+					"ace/mode",
+					"ace/mode/javascript",
+					"acequire",
+					"ace/range",
+					"brace/theme",
+					"ace/theme",
+					".Theme",
+					"Range",
+					"export",
+					"range",
+					"brace",
+					"isArray",
+					"Function",
 					"function",
-					"strict",
-					"js",
-					"react",
-					"vendor",
-					"react",
-					"left nav",
-					"react",
-					"<script type=\"application/javascript\" src=\"build/app.js\"></script>\n",
-					"mixspecintocomponent",
-					"spec",
-					"reactclass",
-					"createClass =",
-					"react.create",
-					"createclass",
-					"_createClass",
-					"leftnav"
+					"Function",
+					"CalleeBuiltins",
+					"VariablesTracker",
+					"vartracker",
+					"calleebuilt",
+					"contains",
+					"builtIns",
+					"builtInObjs",
+					"builtins",
+					"calleeBuiltins",
+					"isCalleeBuiltin",
+					"filter",
+					"functional visualiser",
+					"params",
+					"functionName",
+					"variablesTracker",
+					"hoverText",
+					"isCalleeParamOrBuiltin",
+					"marker",
+					"\"",
+					"math",
+					".on",
+					"d",
+					"onDragNode",
+					"length",
+					";\n",
+					"nodes",
+					"start",
+					"test",
+					"earlyDeliver",
+					"`",
+					"updateDrawFunctionBlocks",
+					"updateDrawFunctionLinks",
+					"node",
+					"start",
+					"graph.links",
+					"graph.nodes",
+					"funcBlock",
+					"width",
+					"var",
+					"\"",
+					"width",
+					"x",
+					"width",
+					"funcBlock",
+					"forceLayout",
+					"onDragNode",
+					"forceTick",
+					"tic",
+					"ticx",
+					"red",
+					"shape",
+					"built",
+					"callee",
+					"currentD3Node",
+					"node",
+					"calleeName",
+					"variablesDeclared",
+					"callee",
+					"variablestracker.get",
+					"variable",
+					"ariable",
+					"variablesD",
+					"variablesTracker",
+					"var",
+					"variablesDeclared, ",
+					"addToVariablesDeclared"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -273,6 +868,13 @@
 				"regex": false,
 				"replace_history":
 				[
+					"'",
+					"\\`",
+					"nodes",
+					"let",
+					"'",
+					"reactComponents/",
+					"'",
 					"let",
 					"d3root"
 				],
@@ -284,7 +886,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 43.0
+				"height": 30.0
 			},
 			"input":
 			{
@@ -298,7 +900,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 83.0
+				"height": 56.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -336,13 +938,13 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 322.0,
+			"side_bar_width": 235.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 1113.0
+		"new_window_width": 1705.0
 	},
 	"windows":
 	[
@@ -351,6 +953,466 @@
 			{
 				"selected_items":
 				[
+					[
+						"scope",
+						"scopeChain"
+					],
+					[
+						"scop",
+						"scopeChain"
+					],
+					[
+						"CURR",
+						"currentScope"
+					],
+					[
+						"current",
+						"currentScope"
+					],
+					[
+						"curr",
+						"currentScope"
+					],
+					[
+						"get",
+						"getCallGraph"
+					],
+					[
+						"Stac",
+						"getStaticCallGraph"
+					],
+					[
+						"func",
+						"functionsCalled"
+					],
+					[
+						"code",
+						"codeString"
+					],
+					[
+						"cret",
+						"createsNewFunctionScope"
+					],
+					[
+						"upda",
+						"updateStore"
+					],
+					[
+						"res",
+						"resolveStep"
+					],
+					[
+						"step",
+						"stepReturned"
+					],
+					[
+						"var",
+						"variablesDeclared"
+					],
+					[
+						"ex",
+						"exitingDeclarationScope"
+					],
+					[
+						"new",
+						"newScopeFound"
+					],
+					[
+						"next",
+						"nextStep"
+					],
+					[
+						"netx",
+						"nextStep"
+					],
+					[
+						"return",
+						"returnResult"
+					],
+					[
+						"call",
+						"callbackForReturnResult"
+					],
+					[
+						"stat",
+						"stateArray"
+					],
+					[
+						"callback",
+						"callbackResult"
+					],
+					[
+						"r",
+						"result"
+					],
+					[
+						"funct",
+						"functionCalled"
+					],
+					[
+						"function",
+						"functionNodes"
+					],
+					[
+						"functio",
+						"functionNode"
+					],
+					[
+						"functi",
+						"function"
+					],
+					[
+						"add",
+						"addUserInfo"
+					],
+					[
+						"dec",
+						"decTracker"
+					],
+					[
+						"ty",
+						"typeIsIdentifier"
+					],
+					[
+						"addFunct",
+						"addFunctionCallRef"
+					],
+					[
+						"de",
+						"DeclarationTracker"
+					],
+					[
+						"Variabl",
+						"VariableDeclaration"
+					],
+					[
+						"creat",
+						"createFunctionNodes"
+					],
+					[
+						"fu",
+						"function"
+					],
+					[
+						"cons",
+						"continueSteps"
+					],
+					[
+						"outsid",
+						"outsideNested2"
+					],
+					[
+						"cr",
+						"createFunctionNodes"
+					],
+					[
+						"par",
+						"parseString"
+					],
+					[
+						"option",
+						"optionStore"
+					],
+					[
+						"hand",
+						"handleClose"
+					],
+					[
+						"on",
+						"onNavClose"
+					],
+					[
+						"show",
+						"showNavBar"
+					],
+					[
+						"Ma",
+						"MarkdownModal"
+					],
+					[
+						"defu",
+						"defaultState"
+					],
+					[
+						"b",
+						"builtinObjs"
+					],
+					[
+						"bult",
+						"builtinObjsNoProto"
+					],
+					[
+						"solaz",
+						"solarized_dark"
+					],
+					[
+						"built",
+						"builtIns"
+					],
+					[
+						"bui",
+						"builtInObjs"
+					],
+					[
+						"bu",
+						"builtInObj"
+					],
+					[
+						"calle",
+						"calleeName"
+					],
+					[
+						"d3N",
+						"d3Nodes"
+					],
+					[
+						"buil",
+						"builtins"
+					],
+					[
+						"isC",
+						"isCalleeBuiltin"
+					],
+					[
+						"calee",
+						"calleeName"
+					],
+					[
+						"cal",
+						"calleeName"
+					],
+					[
+						"text",
+						"textObj"
+					],
+					[
+						"m",
+						"midY"
+					],
+					[
+						"mi",
+						"midX"
+					],
+					[
+						"charg",
+						"chargeDistance"
+					],
+					[
+						"for",
+						"forceLayout"
+					],
+					[
+						"se",
+						"selectedMarkdown"
+					],
+					[
+						"gl",
+						"globalScopeNode"
+					],
+					[
+						"glo",
+						"globalScopeNode"
+					],
+					[
+						"tra",
+						"transformNode"
+					],
+					[
+						"dra",
+						"drawFunctionLink"
+					],
+					[
+						"global",
+						"globalScope"
+					],
+					[
+						"go",
+						"globalScope"
+					],
+					[
+						"link",
+						"linkDistance"
+					],
+					[
+						"ma",
+						"maxAllowedY"
+					],
+					[
+						"max",
+						"maxAllowedX"
+					],
+					[
+						"y",
+						"yBuffer"
+					],
+					[
+						"x",
+						"xBuffer"
+					],
+					[
+						"left",
+						"leftBuffer"
+					],
+					[
+						"links",
+						"linksObj"
+					],
+					[
+						"foc",
+						"forceLayout"
+					],
+					[
+						"d3",
+						"d3CallLinks"
+					],
+					[
+						"Function",
+						"FunctionDeclaration"
+					],
+					[
+						"variable",
+						"variablesTracker"
+					],
+					[
+						"variabl",
+						"variablesTracker"
+					],
+					[
+						"functions",
+						"functionsCalled"
+					],
+					[
+						"node",
+						"nodeForFunction"
+					],
+					[
+						"te",
+						"textBlock"
+					],
+					[
+						"params",
+						"paramsText"
+					],
+					[
+						"param",
+						"paramsText"
+					],
+					[
+						"dis",
+						"displayParams"
+					],
+					[
+						"variables",
+						"variablesDeclared"
+					],
+					[
+						"varia",
+						"variablesDeclared"
+					],
+					[
+						"graph",
+						"graphType"
+					],
+					[
+						"para",
+						"paramNames"
+					],
+					[
+						"assignment",
+						"AssignmentExpression"
+					],
+					[
+						"assign",
+						"AssignmentExpression"
+					],
+					[
+						"initi",
+						"initialOffsets"
+					],
+					[
+						"pro",
+						"propertyChain"
+					],
+					[
+						"set",
+						"setOptions"
+					],
+					[
+						"i",
+						"import"
+					],
+					[
+						"select",
+						"selectedMarkdown"
+					],
+					[
+						"sel",
+						"selectedMarkdown"
+					],
+					[
+						"Var",
+						"VariableDeclaration"
+					],
+					[
+						"callee",
+						"calleeName"
+					],
+					[
+						"mem",
+						"memberType"
+					],
+					[
+						"variablesDecla",
+						"variablesDeclaredKeyMapChain"
+					],
+					[
+						"va",
+						"variableName"
+					],
+					[
+						"object",
+						"objectWhereVariableDeclared"
+					],
+					[
+						"varibl",
+						"variableName"
+					],
+					[
+						"sc",
+						"scopeChainForVariableMutated"
+					],
+					[
+						"varable",
+						"variablesDeclared"
+					],
+					[
+						"Functio",
+						"FunctionDeclaration"
+					],
+					[
+						"Varia",
+						"VariableDeclarator"
+					],
+					[
+						"create",
+						"createsNewFunctionScope"
+					],
+					[
+						"example",
+						"exampleLink"
+					],
+					[
+						"pars",
+						"parseAst"
+					],
+					[
+						"P",
+						"PropTypes"
+					],
+					[
+						"defaul",
+						"defaultProps"
+					],
 					[
 						"forec",
 						"forceLayout"
@@ -364,20 +1426,8 @@
 						"startForceLayout"
 					],
 					[
-						"select",
-						"selectAll"
-					],
-					[
 						"force",
 						"forceLayout"
-					],
-					[
-						"pro",
-						"props	React: this.props"
-					],
-					[
-						"par",
-						"parseAst"
 					],
 					[
 						"anal",
@@ -388,24 +1438,8 @@
 						"propTypes"
 					],
 					[
-						"ex",
-						"exampleKey"
-					],
-					[
 						"sele",
 						"selectedExample"
-					],
-					[
-						"get",
-						"getOptions"
-					],
-					[
-						"func",
-						"funcLocation"
-					],
-					[
-						"example",
-						"exampleManager"
 					],
 					[
 						"exa",
@@ -424,106 +1458,22 @@
 						"propTypes"
 					],
 					[
-						"show",
-						"showMenuOnClick"
-					],
-					[
 						"handle",
 						"handleNavClose"
 					],
 					[
 						"Cont",
 						"ControllerFactory"
-					],
-					[
-						"prop",
-						"prototype"
-					],
-					[
-						"define",
-						"defineProperty"
-					],
-					[
-						"left",
-						"leftNav"
-					],
-					[
-						"sho",
-						"showNavBar"
-					],
-					[
-						"d3",
-						"d3-test"
-					],
-					[
-						"bd",
-						"bd	border"
-					],
-					[
-						"inp",
-						"inputContent"
-					],
-					[
-						"co",
-						"component"
 					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "public/components/Controller/ActionPane/VisPane/VisPane.jsx",
+					"file": "public/modules/astTransforms/StaticCallGraph.js",
 					"settings":
 					{
-						"buffer_size": 2569,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "public/modules/examples/exampleFiles/sum.js",
-					"settings":
-					{
-						"buffer_size": 544,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "public/components/Controller/ActionPane/ActionPane.jsx",
-					"settings":
-					{
-						"buffer_size": 955,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "public/components/Controller/ActionPane/VisPane/_VisPane.scss",
-					"settings":
-					{
-						"buffer_size": 467,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "public/components/Controller/ActionPane/VisPane/d3Helpers.js",
-					"settings":
-					{
-						"buffer_size": 35,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "public/components/Controller/Controller.jsx",
-					"settings":
-					{
-						"buffer_size": 1719,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "public/modules/astParser/astParser.js",
-					"settings":
-					{
-						"buffer_size": 488,
+						"buffer_size": 3965,
 						"line_ending": "Windows"
 					}
 				}
@@ -536,9 +1486,29 @@
 			"command_palette":
 			{
 				"height": 365.0,
-				"last_filter": "insta",
+				"last_filter": "key",
 				"selected_items":
 				[
+					[
+						"key",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"eslint",
+						"Preferences: SublimeLinter Settings – User"
+					],
+					[
+						"prett",
+						"HTMLPrettify: Set Prettify Preferences"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
 					[
 						"insta",
 						"Package Control: Install Package"
@@ -552,20 +1522,12 @@
 						"SublimeLinter: Choose Mark Style"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
 						"choes",
 						"SublimeLinter: Choose Lint Mode"
 					],
 					[
 						"linter settings",
 						"Preferences: SublimeLinter Settings – User"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
 					],
 					[
 						"inst",
@@ -580,7 +1542,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 553.0
+				"width": 560.0
 			},
 			"console":
 			{
@@ -602,44 +1564,111 @@
 			[
 				"/C/Users/pitch/functional-visualiser",
 				"/C/Users/pitch/functional-visualiser/bin",
-				"/C/Users/pitch/functional-visualiser/docs",
-				"/C/Users/pitch/functional-visualiser/modules",
-				"/C/Users/pitch/functional-visualiser/node_modules/react",
+				"/C/Users/pitch/functional-visualiser/node_modules/brace",
+				"/C/Users/pitch/functional-visualiser/node_modules/brace/node_modules",
+				"/C/Users/pitch/functional-visualiser/node_modules/brace/node_modules/w3c-blob",
 				"/C/Users/pitch/functional-visualiser/public",
-				"/C/Users/pitch/functional-visualiser/public/components",
-				"/C/Users/pitch/functional-visualiser/public/components/Controller",
-				"/C/Users/pitch/functional-visualiser/public/components/Controller/ActionPane",
-				"/C/Users/pitch/functional-visualiser/public/components/Controller/NavBar",
 				"/C/Users/pitch/functional-visualiser/public/modules",
-				"/C/Users/pitch/functional-visualiser/public/modules/astParser",
-				"/C/Users/pitch/functional-visualiser/public/modules/examples",
+				"/C/Users/pitch/functional-visualiser/public/modules/d3Visualiser",
 				"/C/Users/pitch/functional-visualiser/public/modules/examples/exampleFiles",
+				"/C/Users/pitch/functional-visualiser/public/modules/sequencer",
 				"/C/Users/pitch/functional-visualiser/public/modules/stores",
-				"/C/Users/pitch/functional-visualiser/public/sass"
+				"/C/Users/pitch/functional-visualiser/public/modules/vendor",
+				"/C/Users/pitch/functional-visualiser/public/modules/vendor/JS-Interpreter",
+				"/C/Users/pitch/functional-visualiser/public/reactComponents/BaseLayout",
+				"/C/Users/pitch/functional-visualiser/public/reactComponents/BaseLayout/ActionPane",
+				"/C/Users/pitch/functional-visualiser/public/reactComponents/BaseLayout/ActionPane/VisPane",
+				"/C/Users/pitch/functional-visualiser/public/reactComponents/BaseLayout/MarkdownModal",
+				"/C/Users/pitch/functional-visualiser/public/reactComponents/BaseLayout/NavBar",
+				"/C/Users/pitch/functional-visualiser/public/sass",
+				"/C/Users/pitch/functional-visualiser/views"
 			],
 			"file_history":
 			[
-				"/C/Users/pitch/OneDrive/Programs/SublimeText3/Data/Packages/User/bh_core.sublime-settings",
-				"/C/Users/pitch/functional-visualiser/public/sass/main.scss",
-				"/C/Users/pitch/functional-visualiser/public/index.html",
-				"/C/Users/pitch/functional-visualiser/gulpfile.js",
-				"/C/Users/pitch/functional-visualiser/routes/index.js",
-				"/C/Users/pitch/functional-visualiser/public/components/Controller/NavBar/NavBar.jsx",
-				"/C/Users/pitch/functional-visualiser/app.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/stores/UpdateStore.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/d3Visualiser/d3Visualiser.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/sequencer/Sequencer.js",
+				"/C/Users/pitch/functional-visualiser/public/reactComponents/BaseLayout/ActionPane/ActionPane.jsx",
+				"/C/Users/pitch/functional-visualiser/public/reactComponents/BaseLayout/BaseLayout.jsx",
+				"/C/Users/pitch/functional-visualiser/public/reactComponents/BaseLayout/MarkdownModal/MarkdownModal.jsx",
+				"/C/Users/pitch/functional-visualiser/public/reactComponents/BaseLayout/NavBar/NavBar.jsx",
+				"/C/Users/pitch/functional-visualiser/public/modules/examples/examples.js",
 				"/C/Users/pitch/functional-visualiser/public/modules/stores/optionStore.js",
+				"/C/Users/pitch/functional-visualiser/experiments/interpreter.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/Sequencer/sequencer.js",
+				"/C/Users/pitch/functional-visualiser/gulpfile.js",
+				"/C/Users/pitch/functional-visualiser/public/index.jsx",
+				"/C/Users/pitch/functional-visualiser/public/reactComponents/BaseLayout/ActionPane/VisPane/VisPane.jsx",
+				"/C/Users/pitch/functional-visualiser/public/modules/examples/exampleFiles/assorted.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/astTransforms/DeclarationTracker.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/astTransforms/StaticCallGraph.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/astTransforms/StaticNodeList.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/astParser/astTools.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/astParser/StaticNodeList.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/stores/updateStore.js",
+				"/C/SublimeText3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/pitch/functional-visualiser/public/modules/astParser/DeclarationTracker.js",
+				"/C/Users/pitch/functional-visualiser/experiments/recurseThroughNodes.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/astParser/astParser.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/astParser/astParser2.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/vendor/JS-Interpreter/interpreter.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/astParser/DynamicNodeList.js",
+				"/C/Users/pitch/functional-visualiser/.eslintrc",
+				"/C/SublimeText3/Data/Packages/User/SublimeLinter.sublime-settings",
+				"/C/Users/pitch/functional-visualiser/experiments/recursion.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/examples/exampleFiles/sum.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/astParser/recurseThroughNodes.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/examples/exampleFiles/escopeDemo.js",
+				"/C/Users/pitch/functional-visualiser/public/reactComponents/Controller/BaseLayout.jsx",
+				"/C/Users/pitch/functional-visualiser/public/reactComponents/App.jsx",
+				"/C/Users/pitch/functional-visualiser/public/reactComponents/Controller/ActionPane/CodePane/CodePane.jsx",
+				"/C/Users/pitch/functional-visualiser/public/reactComponents/Controller/ActionPane/VisPane/_VisPane.scss",
+				"/C/Users/pitch/functional-visualiser/public/reactComponents/Controller/ActionPane/CodePane/_CodePane.scss",
+				"/C/Users/pitch/functional-visualiser/public/reactComponents/Controller/NavBar/NavBar.jsx",
+				"/C/Users/pitch/functional-visualiser/public/modules/examples/exampleFiles/smashingMagazine.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/vendor/react-ace/index.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/vendor/react-ace/src/ace.jsx",
+				"/C/Users/pitch/functional-visualiser/node_modules/react-ace/src/ace.jsx",
+				"/C/Users/pitch/functional-visualiser/package.json",
+				"/C/Users/pitch/functional-visualiser/public/sass/main.scss",
+				"/C/Users/pitch/functional-visualiser/public/reactComponents/Controller/ActionPane/ActionPane.jsx",
+				"/C/Users/pitch/functional-visualiser/public/build/index.js",
+				"/C/Users/pitch/functional-visualiser/public/modules/astParser/astParserDoc.js",
+				"/C/Users/pitch/functional-visualiser/public/reactComponents/Controller/Controller.jsx",
+				"/C/Users/pitch/functional-visualiser/public/reactComponents/Controller/MarkdownModal/MarkdownModal.jsx",
+				"/C/Users/pitch/functional-visualiser/public/docs/earlyDeliverable.js",
+				"/C/Users/pitch/functional-visualiser/public/docs/Early deliverable.js",
+				"/C/Users/pitch/functional-visualiser/public/reactComponents/Controller/ActionPane/VisPane/VisPane.jsx",
+				"/C/Users/pitch/functional-visualiser/public/reactComponents/Controller/ActionPane/_ActionPane.scss",
+				"/C/Users/pitch/functional-visualiser/node_modules/codemirror/lib/codemirror.js",
+				"/C/Users/pitch/functional-visualiser/docs/Early deliverable.md",
+				"/C/Users/pitch/functional-visualiser/public/reactComponents/factories/ComponentFactory.js",
+				"/C/SublimeText3/Data/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/C/Users/pitch/functional-visualiser/public/index.html",
+				"/C/Users/pitch/functional-visualiser/public/sass/solarized.css",
+				"/C/Users/pitch/functional-visualiser/public/components/Controller/ActionPane/VisPane/d3Helper.js",
+				"/C/Users/pitch/functional-visualiser/public/components/Controller/ActionPane/VisPane/_VisPane.scss",
+				"/C/Users/pitch/functional-visualiser/public/components/Controller/ActionPane/VisPane/VisPane.jsx",
+				"/C/Users/pitch/functional-visualiser/public/components/Controller/ActionPane/ActionPane.jsx",
+				"/C/Users/pitch/functional-visualiser/public/build/index.js.map",
+				"/C/Users/pitch/functional-visualiser/public/components/Controller/NavBar/NavBar.jsx",
+				"/C/Users/pitch/functional-visualiser/public/components/Controller/Controller.jsx",
+				"/C/SublimeText3/Data/Packages/User/WordCount.sublime-settings",
+				"/C/SublimeText3/Data/Packages/WordCount/WordCount.sublime-settings",
+				"/C/Users/pitch/functional-visualiser/public/modules/vendor/cola.js",
+				"/C/Users/pitch/functional-visualiser/node_modules/webcola/index.js",
+				"/C/Users/pitch/functional-visualiser/node_modules/webcola/README.md",
+				"/C/Users/pitch/functional-visualiser/node_modules/webcola/WebCola/cola.js",
+				"/C/Users/pitch/functional-visualiser/public/components/Controller/ActionPane/VisPane/d3Helpers.js",
+				"/C/Users/pitch/OneDrive/Programs/SublimeText3/Data/Packages/User/bh_core.sublime-settings",
+				"/C/Users/pitch/functional-visualiser/routes/index.js",
+				"/C/Users/pitch/functional-visualiser/app.js",
 				"/C/Users/pitch/functional-visualiser/public/modules/astParser/astParser_shift.js",
 				"/C/Users/pitch/functional-visualiser/public/components/Controller/ActionPane/_ActionPane.scss",
 				"/C/Users/pitch/functional-visualiser/bin/www.js",
-				"/C/Users/pitch/functional-visualiser/public/index.jsx",
-				"/C/Users/pitch/functional-visualiser/public/build/index.js",
 				"/C/Users/pitch/functional-visualiser/public/build/vendor.js",
 				"/C/Users/pitch/functional-visualiser/node_modules/shift-parser/dist/index.js",
-				"/C/Users/pitch/functional-visualiser/public/modules/examples/examples.js",
 				"/C/Users/pitch/functional-visualiser/public/components/App.jsx",
-				"/C/Users/pitch/functional-visualiser/package.json",
-				"/C/Users/pitch/functional-visualiser/public/components/Controller/Controller.jsx",
-				"/C/Users/pitch/functional-visualiser/public/modules/astParser/astParser.js",
-				"/C/Users/pitch/functional-visualiser/public/modules/examples/exampleFiles/sum.js",
 				"/C/Users/pitch/functional-visualiser/public/components/ActionPane/D3Root/D3Root.jsx",
 				"/C/Users/pitch/functional-visualiser/public/components/ActionPane/ActionPane.jsx",
 				"/C/Users/pitch/functional-visualiser/public/modules/examples/imperative.js",
@@ -664,7 +1693,6 @@
 				"/C/Users/pitch/functional-visualiser/public/modules/layout/Controller/Controller.jsx",
 				"/C/Users/pitch/functional-visualiser/public/modules/app.jsx",
 				"/C/Users/pitch/OneDrive/Programs/SublimeText3/Data/Packages/User/SublimeLinter.sublime-settings",
-				"/C/Users/pitch/functional-visualiser/.eslintrc",
 				"/C/Users/pitch/OneDrive/Programs/SublimeText3/Data/Packages/HTML-CSS-JS Prettify/scripts/node_modules/js-beautify/js/lib/beautify.js",
 				"/C/Users/pitch/functional-visualiser/public/modules/layout/LeftNav/LeftNav.jsx",
 				"/C/Users/pitch/OneDrive/Programs/SublimeText3/Data/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
@@ -693,6 +1721,31 @@
 				"height": 120.0,
 				"where_history":
 				[
+					"C:\\Users\\pitch\\functional-visualiser\\public\\reactComponents",
+					"C:\\Users\\pitch\\functional-visualiser\\public\\modules",
+					"C:\\Users\\pitch\\functional-visualiser\\experiments",
+					"C:\\Users\\pitch\\functional-visualiser\\public\\modules",
+					"C:\\Users\\pitch\\functional-visualiser\\public\\reactComponents",
+					"C:\\Users\\pitch\\functional-visualiser\\public\\modules",
+					"C:\\Users\\pitch\\functional-visualiser\\public",
+					"C:\\Users\\pitch\\functional-visualiser\\public\\modules",
+					"C:\\Users\\pitch\\functional-visualiser\\public\\reactComponents",
+					"C:\\Users\\pitch\\functional-visualiser\\public\\modules",
+					"C:\\Users\\pitch\\functional-visualiser",
+					"C:\\Users\\pitch\\functional-visualiser\\public\\modules",
+					"C:\\Users\\pitch\\functional-visualiser\\public",
+					"C:\\Users\\pitch\\functional-visualiser\\public\\modules",
+					"C:\\Users\\pitch\\functional-visualiser\\public\\reactComponents",
+					"C:\\Users\\pitch\\functional-visualiser\\public\\modules",
+					"C:\\Users\\pitch\\functional-visualiser\\public",
+					"C:\\Users\\pitch\\functional-visualiser\\public\\reactComponents",
+					"C:\\Users\\pitch\\functional-visualiser\\public",
+					"C:\\Users\\pitch\\functional-visualiser\\public\\modules",
+					"C:\\Users\\pitch\\functional-visualiser\\public\\components",
+					"C:\\Users\\pitch\\functional-visualiser\\public\\modules",
+					"C:\\Users\\pitch\\functional-visualiser\\public\\components",
+					"C:\\Users\\pitch\\functional-visualiser\\public",
+					"C:\\Users\\pitch\\functional-visualiser\\node_modules\\webcola\\WebCola",
 					"C:\\Users\\pitch\\functional-visualiser",
 					"C:\\Users\\pitch\\functional-visualiser\\node_modules\\shift-scope",
 					"C:\\Users\\pitch\\functional-visualiser",
@@ -704,52 +1757,134 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"dimensions",
-					"element",
-					"should",
-					"test",
-					"dimensions",
-					"import express",
-					"import",
-					"shift-scope",
-					"analyzeScope",
-					"export",
-					"instance",
-					"onFunctionLocationChanged",
+					"optionStore",
+					"OptionStore",
+					"optionStore",
+					"interpreter",
+					"optionstore",
+					"';\n",
+					"brace",
+					"text",
+					"shift",
+					"displayText",
+					"functionNode",
+					"dectracker.set",
+					"dectracker.",
+					"dectracker",
+					"parent",
+					"addLinks",
+					"functionNode",
+					"addLinks",
+					"currentNode",
+					"linksobj",
+					"addlinks",
+					"callLinks",
+					"scopeChain",
+					"getStaticNodeList",
+					"createNodeList",
+					"createsNewFunctionScope",
+					"getInitCallGraph",
+					"getStaticCallNodes",
+					"getVisPaneNodes",
+					"change",
+					"removeListener",
+					"optionStore",
+					"node",
+					"Node",
+					"node",
+					"functionNode",
+					"a",
+					"getAst",
+					"exitingDeclarationScope",
+					"d3Node",
+					"d3",
+					"recurse",
+					"callbackForReturnResult",
+					"resultArr",
 					"acorn",
-					"dg",
+					"parse",
+					"acorn",
+					"export",
+					"callbackResult",
+					"stepThroughScope",
+					"enterScope",
+					"resultCallback",
+					"state",
+					"callback",
+					"scopeInfo",
+					"goToNextFunction",
+					"functionscalled",
+					"node",
+					"executeSteps",
+					"userInfo",
+					"recurseThroughScopes",
+					"recurseThroughNodes",
+					"sum",
+					"only",
 					"var",
-					"',\n",
-					"index",
-					"components",
-					"modules",
-					"index",
-					"sourceroot",
-					"app",
-					"app.js",
-					"        <",
-					"instance",
-					"handleMenuClick",
-					"show",
-					"beautify",
-					"navigator",
-					"function",
-					"strict",
-					"js",
-					"react",
-					"vendor",
-					"react",
-					"left nav",
-					"react",
-					"<script type=\"application/javascript\" src=\"build/app.js\"></script>\n",
-					"mixspecintocomponent",
-					"spec",
-					"reactclass",
-					"createClass =",
-					"react.create",
-					"createclass",
-					"_createClass",
-					"leftnav"
+					"node",
+					"CallExpression",
+					"callexpress",
+					"addUserInfo",
+					"functionNode",
+					"addVariableInfo",
+					"currentNode",
+					"addFunctionCallRef",
+					"tracker.set",
+					"node",
+					"typeIsIdentifier",
+					"checkTypeIsIdentifier",
+					"declarations",
+					"variablesDeclared",
+					"estraverse",
+					"VariablesTracker",
+					"varTracker",
+					"stepThroughNodes",
+					"step",
+					"executeSteps",
+					" {",
+					"toString",
+					"type",
+					"codeExample",
+					"type",
+					"exampleCode",
+					"examples",
+					"selectedExample",
+					"state",
+					"code",
+					"LeftNavBar",
+					"showNavBar",
+					"isNavBarShowing",
+					"showNavBar",
+					"shouldShow",
+					"dismiss",
+					"onoption",
+					"clicked",
+					"type",
+					"this.state",
+					"Controller",
+					"markdown",
+					"Controller",
+					"optionStore",
+					"console",
+					"builtInObjNoProto",
+					"builtinObjsNoProto",
+					"ace/theme",
+					"ace/range",
+					"ace/mode",
+					"ace/mode/javascript",
+					"acequire",
+					"ace/range",
+					"brace/theme",
+					"ace/theme",
+					".Theme",
+					"Range",
+					"export",
+					"range",
+					"brace",
+					"isArray",
+					"Function",
+					"function"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -757,6 +1892,15 @@
 				"regex": false,
 				"replace_history":
 				[
+					"OptionStore",
+					"let",
+					"'",
+					"\\`",
+					"nodes",
+					"let",
+					"'",
+					"reactComponents/",
+					"'",
 					"let",
 					"d3root"
 				],
@@ -769,361 +1913,8 @@
 			"groups":
 			[
 				{
-					"selected": 0,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "public/components/Controller/ActionPane/VisPane/VisPane.jsx",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 2569,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										922,
-										922
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content"
-									],
-									"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 600.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "public/modules/examples/exampleFiles/sum.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 544,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										280,
-										280
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 6,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "public/components/Controller/ActionPane/ActionPane.jsx",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 955,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										507,
-										507
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "public/components/Controller/ActionPane/VisPane/_VisPane.scss",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 467,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										467,
-										467
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content"
-									],
-									"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "public/components/Controller/ActionPane/VisPane/d3Helpers.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 35,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										30,
-										30
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content"
-									],
-									"open_with_edit": true,
-									"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "public/components/Controller/Controller.jsx",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1719,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1635,
-										1635
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 420.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
-							"type": "text"
-						}
 					]
 				},
 				{
@@ -1131,32 +1922,92 @@
 					"sheets":
 					[
 						{
-							"buffer": 6,
-							"file": "public/modules/astParser/astParser.js",
+							"buffer": 0,
+							"file": "public/modules/astTransforms/StaticCallGraph.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 488,
+								"buffer_size": 3965,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										172,
-										172
+										605,
+										605
 									]
 								],
 								"settings":
 								{
-									"open_with_edit": true,
-									"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage"
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 1366.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 0,
 							"type": "text"
 						}
 					]
@@ -1164,7 +2015,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 43.0
+				"height": 30.0
 			},
 			"input":
 			{
@@ -1190,7 +2041,7 @@
 				"cols":
 				[
 					0.0,
-					0.91610738255,
+					0.540461858839,
 					1.0
 				],
 				"rows":
@@ -1205,7 +2056,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,1,-32000,-32000,-1,-1,924,201,229,1332",
+			"position": "0,2,3,-1,-1,-1,-1,876,65,65,1788",
 			"project": "functional-visualiser.sublime-project",
 			"replace":
 			{
@@ -1243,7 +2094,7 @@
 				],
 				"width": 0.0
 			},
-			"selected_group": 0,
+			"selected_group": 1,
 			"settings":
 			{
 			},
@@ -1251,7 +2102,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 63.0,
+			"side_bar_width": 337.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{

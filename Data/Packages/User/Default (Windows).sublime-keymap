@@ -1,0 +1,7 @@
+[{ "keys": ["ctrl+alt+space"], "command": "expand_region" },
+{
+  "keys": ["super+u"],
+  "command": "expand_region",
+  "args": {"undo": true},
+  "context": [{ "key": "expand_region_soft_undo" }]
+}]
